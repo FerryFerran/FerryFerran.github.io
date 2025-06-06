@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: How does Undesired Catch work?
 description: heeeeeeeeeeeey mmmuy buenas a todooos guuuaaaappisiimos aqui veggetta 777 en un nuevo video de mmmaincraft
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
