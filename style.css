@@ -17,10 +17,12 @@ p {
   text-align: center;
   font-size: 100%;
   color: grey;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 p1{
-    font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Lucida Console", "Courier New", monospace;
   text-align: left;
   font-size: 120%;
   color: grey;
