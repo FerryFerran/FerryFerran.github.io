@@ -13,6 +13,7 @@ h1 {
 }
 
 p {
+  font-family: "Lucida Console", "Courier New", monospace;
   text-align: center;
   font-size: 200%;
   color: grey;
