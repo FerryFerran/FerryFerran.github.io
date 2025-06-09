@@ -21,6 +21,9 @@ p {
   margin-right: 7%;
   margin-top: 2%;
 }
+img{
+  max-width:100%;
+}
 
 p1{
   font-family: "Lucida Console", "Courier New", monospace;
