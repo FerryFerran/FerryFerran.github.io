@@ -1,9 +1,10 @@
-@import "{{ site.theme }}";
-.main-content {
-  h1 {
-    color: #ff0000;
-  }
+/* Removed the Jekyll import: @import "{{ site.theme }}"; */
+
+/* Flattened SCSS nesting */
+.main-content h1 {
+  color: #ff0000;
 }
+
 body {
   background-color: black;
   text-align: center;
